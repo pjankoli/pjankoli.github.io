@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Indian & US Holiday Calendar</h1>
+      <h1>Holiday Calendar</h1>
       <Calendar />
     </div>
   );
